@@ -20,6 +20,8 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/FIAE%20(IHK)-in%20training-2b2b2b" alt="FIAE (IHK) in training">
+  <img src="https://img.shields.io/badge/Python-building%20up-2b2b2b" alt="Python building up">
+  <img src="https://img.shields.io/badge/Java-building%20up-2b2b2b" alt="Java building up">
   <img src="https://img.shields.io/badge/Focus-DevOps%20%2B%20System%20Integration-2b2b2b" alt="DevOps and System Integration focus">
   <img src="https://img.shields.io/badge/Platform-Linux%20%7C%20Windows-2b2b2b" alt="Linux and Windows">
   <img src="https://img.shields.io/badge/Containers-Docker%20%7C%20Compose-2b2b2b" alt="Docker and Docker Compose">
