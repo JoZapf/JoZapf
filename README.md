@@ -52,6 +52,7 @@
 <p align="center">
   <i>“Everything you can imagine is real.”</i>
 </p><br>  
+
 ---
 
 ## Internship availability (IHK mandatory)
