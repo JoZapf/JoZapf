@@ -54,36 +54,6 @@ My background combines **hands-on IT responsibility** with a long-standing **aut
 
 ---
 
-## Featured projects
-
-<p align="center">
-  <img src="docs/featured_projects_2up.png" width="1100" alt="Featured projects: Segmented Borg Backup System + Zero Trust Selfhosted Cloud">
-</p>
-
-### 🔒 Infra / Segmented Borg Backup System
-Backup orchestration system for BorgBackup featuring:
-- 17 independent, testable segments
-- Profile-based configuration
-- DB dump automation
-- Docker start/stop orchestration
-- Hardware power management (Shelly Plug)
-- Safe HDD spindown
-- systemd integration
-
-**Repo:** https://github.com/JoZapf/segmented-borg-backup-system
-
-### 🛡️ Zero Trust Selfhosted Cloud
-Zero-Trust access for self-hosted cloud behind Cloudflare:
-- Proxied DNS + edge mTLS (client cert + serial allowlist)
-- Cloudflare Access (OTP)
-- Egress-only Tunnel → Nginx
-- Docker-segmented cloud
-- Deny-by-default, least-privilege
-
-**Repo:** https://github.com/JoZapf/Zero-Trust-Selfhosted-Cloud-Multi-Layer-Edge-to-Origin-Security-Flow-Defense-Architecture
-
----
-
 ## More links
 
 - **Website / portfolio repo:** https://github.com/JoZapf/jozapf_de
