@@ -4,7 +4,7 @@
 
 <h1 align="center">Jo Zapf</h1>
 <p align="center">
-  <i>“Everything you can imagine is real”</i><br>
+  Building Bridges: <i>“Everything you can imagine is real”</i><br>
 </p>
 <p align="center">
 <p align="center">
