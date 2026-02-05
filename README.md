@@ -3,65 +3,95 @@
      ========================= -->
 
 <h1 align="center">Jo Zapf</h1>
+
 <p align="center">
-  <b>Junior Software Engineer (in training) · DevOps-adjacent · Production-minded</b><br>
-  FIAE (IHK) career switcher building software that runs reliably under real operating conditions.
+  <b>DevOps-adjacent System Integration · Junior Software Engineering (in training)</b><br>
+  Professionalizing 20+ years of hands-on IT responsibility through <b>FIAE (IHK)</b>.
 </p>
 
 <p align="center">
   <a href="https://jozapf.de"><b>Website</b></a> ·
+  <a href="https://www.linkedin.com/in/jo-zapf/"><b>LinkedIn</b></a> ·
   <a href="https://github.com/JoZapf"><b>GitHub</b></a>
 </p>
 
 <p align="center">
   <img src="https://img.shields.io/badge/FIAE%20(IHK)-in%20training-2b2b2b" alt="FIAE (IHK) in training">
-  <img src="https://img.shields.io/badge/Focus-DevOps%20adjacent-2b2b2b" alt="DevOps adjacent">
-  <img src="https://img.shields.io/badge/Stack-Docker%20%7C%20Linux%20%7C%20Windows%20%7C%20CI%2FCD-2b2b2b" alt="Docker Linux Windows CI/CD">
-  <img src="https://img.shields.io/badge/Security-Least%20Privilege%20%7C%20Zero%20Trust-2b2b2b" alt="Security">
-  <img src="https://img.shields.io/badge/System%20Integration-ops%20%26%20interfaces-2b2b2b" alt="System Integration">
+  <img src="https://img.shields.io/badge/Focus-DevOps%20%2B%20System%20Integration-2b2b2b" alt="DevOps and System Integration focus">
+  <img src="https://img.shields.io/badge/Platform-Linux%20%7C%20Windows-2b2b2b" alt="Linux and Windows">
+  <img src="https://img.shields.io/badge/Containers-Docker%20%7C%20Compose-2b2b2b" alt="Docker and Docker Compose">
+  <img src="https://img.shields.io/badge/CI%2FCD-GitHub%20Actions-2b2b2b" alt="GitHub Actions">
+  <img src="https://img.shields.io/badge/Security-Zero%20Trust%20%7C%20Least%20Privilege-2b2b2b" alt="Zero Trust / Least Privilege">
+  <img src="https://img.shields.io/badge/System%20Integration-APIs%20%7C%20Automation-2b2b2b" alt="System Integration">
   <img src="https://img.shields.io/badge/IoT-Automation-2b2b2b" alt="IoT Automation">
+</p>
+
+<p align="center">
+  <i>Guiding principles:</i> “Everything you can imagine is real” · “First pain → clarity → freedom”
 </p>
 
 ---
 
-## About
+## Snapshot
 
-I’m a **FIAE (IHK) career switcher** with a **DevOps-adjacent** focus: building software that runs reliably under real operating conditions — **CI/CD**, **Docker**, **Linux**, **Windows**, **Security**, and **system integration** included.  
-My background combines **hands-on IT responsibility** with a long-standing **autodidactic cross-media / web** foundation, helping me translate requirements into **production-ready, maintainable** solutions.
-
-**Keywords:** FIAE · Junior Developer · DevOps · CI/CD · Docker · Linux · Windows · Security · System Integration · IoT Automation · Python · Shell · Git · GitHub Actions
-
----
-
-## Current focus (DevOps-adjacent engineering)
-
-- **CI/CD:** GitHub Actions, versioned releases, PR workflows, staged deployments (dev → staging → prod)
-- **Containers & operations:** Docker / Docker Compose, reproducible builds, logging/metrics, rollbacks
-- **Linux & Windows:** automation, troubleshooting, reproducible environments (incl. WSL where useful)
-- **Security:** hardening, patching, backup & recovery, secrets handling (least privilege, redaction, zero-trust mindset)
-- **Software development:** Python & Java (formal training + projects), web engineering (Next.js / Node.js)
+- **Bridge Dev ↔ Ops:** I build and operate solutions with production constraints in mind (security, reliability, documentation).
+- **Proven responsibility:** Head of IT / Digital & Media (02/2020–10/2024) — network design, server/client ops, security & backup concepts, high-demand event/B2B setups.  
+- **Software engineering (in training):** Python/Java currently in structured build-up; strongest value today is **integration + operations + automation**.
 
 ---
 
-## Tech stack (compact)
+## What I do best (fast scan)
 
-**Languages (foundations + steady project practice):** Python · Java · Shell (Bash) · JavaScript (basic)  
-**DevOps/Infra:** Docker · Docker Compose · Linux · Windows · CI/CD (GitHub Actions) · Monitoring/Logging (project-dependent)  
-**Web:** Next.js / Node.js · HTML/CSS  
-**Security:** secrets handling · least privilege · zero-trust-oriented approaches  
-**System integration:** glue code, APIs, automation, reliability patterns  
-**IoT automation:** device integration, orchestration, home-lab automation patterns
+- **System integration & automation:** glue code, APIs, workflows, reproducible environments, pragmatic runbooks
+- **DevOps foundations:** Docker/Compose, CI/CD (GitHub Actions), staged deployments, rollbacks (project-dependent)
+- **Security mindset:** zero-trust-oriented thinking, least privilege, secrets handling, defense-in-depth
+- **Platforms:** Linux + Windows (incl. WSL where useful), troubleshooting under pressure
 
 ---
 
-## Quick profile
+## Internship availability (IHK mandatory)
 
-- **Dev ↔ Ops bridge:** engineering with production constraints in mind (CI/CD, containers, Linux/Windows)
-- **Security mindset:** pragmatic, traceable, well-documented
-- **Operations experience:** structured troubleshooting, scalable setups, clean documentation
-- **Autodidactic + formalized:** long-term self-learning, now systematized through FIAE training
+✅ **Open to a 6-month mandatory internship (Berlin)**  
+**02 Jun 2026 → 29 Jan 2027**
+
+> A concise internship fact sheet will be linked here soon: `docs/internship_fact_sheet.md`
 
 ---
+
+## Featured projects
+
+<p align="center">
+  <img src="docs/featured_projects_2up.png" width="1100" alt="Featured projects: Segmented Borg Backup System + Zero Trust Selfhosted Cloud">
+</p>
+
+### 🔒 Infra / Segmented Borg Backup System
+Backup orchestration system for BorgBackup featuring:
+- 17 independent, testable segments
+- Profile-based configuration
+- DB dump automation
+- Docker start/stop orchestration
+- Hardware power management (Shelly Plug)
+- Safe HDD spindown
+- systemd integration
+
+**Repo:** https://github.com/JoZapf/segmented-borg-backup-system
+
+### 🛡️ Zero Trust Selfhosted Cloud
+Zero-Trust access for self-hosted cloud behind Cloudflare:
+- Proxied DNS + edge mTLS (client cert + serial allowlist)
+- Cloudflare Access (OTP)
+- Egress-only Tunnel → Nginx
+- Docker-segmented cloud
+- Deny-by-default, least-privilege
+
+**Repo:** https://github.com/JoZapf/Zero-Trust-Selfhosted-Cloud-Multi-Layer-Edge-to-Origin-Security-Flow-Defense-Architecture
+
+---
+
+## Contact
+
+- Website: https://jozapf.de  
+- LinkedIn: https://www.linkedin.com/in/jo-zapf/
 
 <!-- =========================
      /README
