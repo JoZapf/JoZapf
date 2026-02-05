@@ -24,10 +24,9 @@
   <img src="https://img.shields.io/badge/System%20Integration-APIs%20%7C%20Automation-2b2b2b" alt="System Integration">
   <img src="https://img.shields.io/badge/IoT-Automation-2b2b2b" alt="IoT Automation">
 </p>
-
+<br>
 <p align="center">
-  <b>Intrinsic drive</b><br>
-  <i>“First pain → clarity → freedom”</i><br>
+  <b>Intrinsic drive: </b><i>“First pain → clarity → freedom”</i><br>
   <span>My personal drive for <b>security</b> turns complexity into clarity — and has repeatedly prevented critical failures in real operations.</span><br>
   <span>Moving from preparation to leading and leaving reaction.</span>
 </p>
