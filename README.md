@@ -40,8 +40,9 @@
 ## Snapshot
 
 - **Bridge Dev ↔ Ops:** I build and operate solutions with production constraints in mind (security, reliability, documentation).
-- **Proven responsibility:** Head of IT / Digital & Media (02/2020–10/2024) — network design, server/client ops, security & backup concepts, high-demand event/B2B setups.  
+- **Proven responsibility:** IT Lead (hands-on, technical) · external specialists coordination / Digital & Media (02/2020–10/2024) — network design, server/client ops, security & backup concepts, high-demand event/B2B/B2C setups.  
 - **Software engineering (in training):** Python/Java currently in structured build-up; strongest value today is **integration + operations + automation**.
+- **Automation:** Security-driven ops automation in **Shell/Bash** — extending into **API-based alerting (SMS/RCS)** for critical states.
 
 ---
 
