@@ -27,9 +27,6 @@ My background combines **hands-on IT responsibility** with a long-standing **aut
 - **Infra / Segmented Borg Backup System** → `https://github.com/JoZapf/segmented-borg-backup-system`
 - **Security / Zero Trust** → `https://github.com/JoZapf/Zero-Trust-Selfhosted-Cloud-Multi-Layer-Edge-to-Origin-Security-Flow-Defense-Architecture`
 - **Website / portfolio** → `https://github.com/JoZapf/jozapf_de`
-
-> Tip: 3–5 strong repos beat 20 unfinished ones. Keep CI green, document setup, and show one screenshot per project.
-
 <!-- ===== Portfolio: Featured Projects (2-up layout) ===== -->
 <table>
   <tr>
