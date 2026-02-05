@@ -16,7 +16,6 @@
 <p align="center">
   <a href="https://jozapf.de"><b>Website</b></a> ·
   <a href="https://www.linkedin.com/in/jo-zapf/"><b>LinkedIn</b></a> ·
-  <a href="https://github.com/JoZapf"><b>GitHub</b></a>
 </p>
 
 <p align="center">
