@@ -54,13 +54,6 @@ My background combines **hands-on IT responsibility** with a long-standing **aut
 
 ---
 
-## More links
-
-- **Website / portfolio repo:** https://github.com/JoZapf/jozapf_de
-- **Website:** https://jozapf.de
-
----
-
 ## Quick profile
 
 - **Dev ↔ Ops bridge:** engineering with production constraints in mind (CI/CD, containers, Linux/Windows)
@@ -69,10 +62,6 @@ My background combines **hands-on IT responsibility** with a long-standing **aut
 - **Autodidactic + formalized:** long-term self-learning, now systematized through FIAE training
 
 ---
-
-## Contact
-
-- Website: https://jozapf.de
 
 <!-- =========================
      /README
