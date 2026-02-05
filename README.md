@@ -4,7 +4,7 @@
 
 <h1 align="center">Jo Zapf</h1>
 <p align="center">
-  <b>Junior Software Engineer (in training) · DevOps-adjacent · Production-minded</b><br/>
+  <b>Junior Software Engineer (in training) · DevOps-adjacent · Production-minded</b><br>
   FIAE (IHK) career switcher building software that runs reliably under real operating conditions.
 </p>
 
@@ -14,10 +14,10 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/FIAE%20(IHK)-in%20training-2b2b2b" alt="FIAE (IHK) in training"/>
-  <img src="https://img.shields.io/badge/Focus-DevOps%20adjacent-2b2b2b" alt="DevOps adjacent"/>
-  <img src="https://img.shields.io/badge/Stack-Docker%20%7C%20Linux%20%7C%20CI%2FCD-2b2b2b" alt="Docker Linux CI/CD"/>
-  <img src="https://img.shields.io/badge/Security-Least%20Privilege%20%7C%20Zero%20Trust-2b2b2b" alt="Security"/>
+  <img src="https://img.shields.io/badge/FIAE%20(IHK)-in%20training-2b2b2b" alt="FIAE (IHK) in training">
+  <img src="https://img.shields.io/badge/Focus-DevOps%20adjacent-2b2b2b" alt="DevOps adjacent">
+  <img src="https://img.shields.io/badge/Stack-Docker%20%7C%20Linux%20%7C%20CI%2FCD-2b2b2b" alt="Docker Linux CI/CD">
+  <img src="https://img.shields.io/badge/Security-Least%20Privilege%20%7C%20Zero%20Trust-2b2b2b" alt="Security">
 </p>
 
 ---
@@ -53,60 +53,71 @@ My background combines **hands-on IT responsibility** with a long-standing **aut
 
 <p align="center"><i>Two production-minded projects that reflect my “Dev ↔ Ops bridge” focus.</i></p>
 
-<table>
+<!-- GitHub Markdown doesn't support CSS margins well.
+     The most reliable "2-up" layout is a borderless table with explicit cell padding. -->
+<table border="0" cellspacing="0" cellpadding="0">
   <tr>
-    <td width="50%" valign="top">
+    <td width="50%" valign="top" style="padding-right:16px;">
 
-<h3>🔒 Infra / Segmented Borg Backup System</h3>
-<b>Backup orchestration for BorgBackup</b> — modular, testable, ops-focused.
+      <h3>🔒 Infra / Segmented Borg Backup System</h3>
+      <b>Backup orchestration for BorgBackup</b> — modular, testable, ops-focused.
 
-<p>
-  <a href="https://github.com/JoZapf/segmented-borg-backup-system">
-    <img src="https://github.com/JoZapf/segmented-borg-backup-system/blob/main/docs/github_gfx_teaser_v2.jpg?raw=true"
-         width="100%"
-         alt="Infra / Segmented Borg Backup System – teaser">
-  </a>
-</p>
+      <p>
+        <a href="https://github.com/JoZapf/segmented-borg-backup-system">
+          <img
+            src="https://github.com/JoZapf/segmented-borg-backup-system/blob/main/docs/github_gfx_teaser_v2.jpg?raw=true"
+            alt="Infra / Segmented Borg Backup System – teaser"
+            width="100%"
+          >
+        </a>
+      </p>
 
-<b>Highlights</b>
-<ul>
-  <li>17 independent, testable segments</li>
-  <li>Profile-based configuration</li>
-  <li>DB dump automation</li>
-  <li>Docker start/stop orchestration</li>
-  <li>Hardware power management (Shelly Plug)</li>
-  <li>Safe HDD spindown</li>
-  <li>systemd integration</li>
-</ul>
+      <b>Highlights</b>
+      <ul>
+        <li>17 independent, testable segments</li>
+        <li>Profile-based configuration</li>
+        <li>DB dump automation</li>
+        <li>Docker start/stop orchestration</li>
+        <li>Hardware power management (Shelly Plug)</li>
+        <li>Safe HDD spindown</li>
+        <li>systemd integration</li>
+      </ul>
 
-<b>Repo:</b> <a href="https://github.com/JoZapf/segmented-borg-backup-system">segmented-borg-backup-system</a>
+      <b>Repo:</b> <a href="https://github.com/JoZapf/segmented-borg-backup-system">segmented-borg-backup-system</a>
 
     </td>
-    <td width="50%" valign="top">
 
-<h3>🛡️ Zero Trust Selfhosted Cloud</h3>
-<b>Multi-layer Edge-to-Origin security flow</b> — deny-by-default, least-privilege.
+    <td width="50%" valign="top" style="padding-left:16px;">
 
-<p>
-  <a href="https://github.com/JoZapf/Zero-Trust-Selfhosted-Cloud-Multi-Layer-Edge-to-Origin-Security-Flow-Defense-Architecture">
-    <img src="https://github.com/JoZapf/Zero-Trust-Selfhosted-Cloud-Multi-Layer-Edge-to-Origin-Security-Flow-Defense-Architecture/blob/main/docs/Zero-Trust-Selfhosted-Cloud-Multi-Layer-Edge-to-Origin-Security-Flow-Defense-Architecture.jpg?raw=true"
-         width="100%"
-         alt="Zero Trust Selfhosted Cloud – edge-to-origin flow diagram">
-  </a>
-</p>
+      <h3>🛡️ Zero Trust Selfhosted Cloud</h3>
+      <b>Multi-layer Edge-to-Origin security flow</b> — deny-by-default, least-privilege.
 
-<b>Highlights</b>
-<ul>
-  <li>Proxied DNS + edge security</li>
-  <li>Edge mTLS (client cert + serial allowlist)</li>
-  <li>Cloudflare Access (OTP)</li>
-  <li>Egress-only Tunnel → Nginx</li>
-  <li>Docker-segmented cloud</li>
-  <li>Deny-by-default / least-privilege</li>
-</ul>
+      <p>
+        <a href="https://github.com/JoZapf/Zero-Trust-Selfhosted-Cloud-Multi-Layer-Edge-to-Origin-Security-Flow-Defense-Architecture">
+          <img
+            src="https://github.com/JoZapf/Zero-Trust-Selfhosted-Cloud-Multi-Layer-Edge-to-Origin-Security-Flow-Defense-Architecture/blob/main/docs/Zero-Trust-Selfhosted-Cloud-Multi-Layer-Edge-to-Origin-Security-Flow-Defense-Architecture.jpg?raw=true"
+            alt="Zero Trust Selfhosted Cloud – edge-to-origin flow diagram"
+            width="100%"
+          >
+        </a>
+      </p>
 
-<b>Repo:</b> <a href="https://github.com/JoZapf/Zero-Trust-Selfhosted-Cloud-Multi-Layer-Edge-to-Origin-Security-Flow-Defense-Architecture">Zero-Trust…Architecture</a>
+      <b>Highlights</b>
+      <ul>
+        <li>Proxied DNS + edge security</li>
+        <li>Edge mTLS (client cert + serial allowlist)</li>
+        <li>Cloudflare Access (OTP)</li>
+        <li>Egress-only Tunnel → Nginx</li>
+        <li>Docker-segmented cloud</li>
+        <li>Deny-by-default / least-privilege</li>
+      </ul>
 
+      <b>Repo:</b>
+      <a href="https://github.com/JoZapf/Zero-Trust-Selfhosted-Cloud-Multi-Layer-Edge-to-Origin-Security-Flow-Defense-Architecture">
+        Zero-Trust-Selfhosted-Cloud…
+      </a>
+
+    </td>
   </tr>
 </table>
 
