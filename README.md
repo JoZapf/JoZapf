@@ -35,7 +35,7 @@
 ---
 
 ## Snapshot
-- **Bridge Dev ↔ Ops:** I build and operate solutions with production constraints in mind (security, reliability, documentation) — autodidactic since 1999.
+- **Bridge Dev ↔ Ops:** I build and operate varoius solutions learning by doing with production constraints in mind, autodidactic since 1999.
 - **Proven responsibility:** IT Lead (hands-on, technical) · external specialists coordination / Digital & Media (02/2020–10/2024) — network design, server/client ops, security & backup concepts, high-demand event/B2B/B2C setups.
 - **Software engineering (in training):** **Python/Java building up**; strongest value today is **system integration + operations + automation**.
 - **Automation focus:** security-driven ops automation in **Shell/Bash** — extending into **API-based alerting (SMS/RCS)** for critical states.
