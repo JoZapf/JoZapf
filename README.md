@@ -51,7 +51,9 @@
 ---
 <p align="center">
   <i>“Everything you can imagine is real.”</i>
-</p><br>    
+</p><br>  
+---
+
 ## Internship availability (IHK mandatory)
 <p align="center">
 ✅ **Open to a 6-month mandatory internship (Berlin)**<br>  
