@@ -8,7 +8,7 @@
 </p>
 <p align="center">
 <p align="center">
-  <b>DevOps-adjacent System Integration · Home-Lab Enthusiast · Junior Software Engineering (in training)</b><br>
+  <b>DevOps-adjacent System Integration · Home-Lab Enthusiast · Software Engineering (in training)</b><br>
   Professionalizing 20+ years of cross-media and web work, backed by hands-on IT responsibility, through FIAE (IHK).</b>.
 </p>
 
