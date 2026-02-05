@@ -69,10 +69,6 @@
 
 ---
 
-<!-- <p align="center">
-<img src="docs/featured_projects_2up.png" width="1100" alt="Featured projects: Segmented Borg Backup System + Zero Trust Selfhosted Cloud">
-</p> -->
-
 ## Contact
 
 - Website: https://jozapf.de  
