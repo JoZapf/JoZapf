@@ -64,12 +64,6 @@
   </a>
   <img src="https://img.shields.io/badge/02%20Jun%202026-29%20Jan%202027-2b2b2b" alt="Internship dates">
 </p>
-
----
-## Contact
-- Website: https://jozapf.de  
-- LinkedIn: https://www.linkedin.com/in/jo-zapf/
-
 <!-- =========================
      /README
      ========================= -->
