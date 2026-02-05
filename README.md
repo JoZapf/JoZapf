@@ -28,7 +28,7 @@
 <p align="center">
   <b>Intrinsic drive</b><br>
   <i>“First pain → clarity → freedom”</i><br>
-  <span>My drive for <b>security</b> turns complexity into clarity — and has repeatedly prevented critical failures in real operations.</span><br>
+  <span>My personal drive for <b>security</b> turns complexity into clarity — and has repeatedly prevented critical failures in real operations.</span><br>
   <span>Moving from preparation to leading and leaving reaction.</span>
 </p>
 
