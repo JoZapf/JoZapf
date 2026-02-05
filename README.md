@@ -18,6 +18,8 @@
   <img src="https://img.shields.io/badge/Focus-DevOps%20adjacent-2b2b2b" alt="DevOps adjacent">
   <img src="https://img.shields.io/badge/Stack-Docker%20%7C%20Linux%20%7C%20Windows%20%7C%20CI%2FCD-2b2b2b" alt="Docker Linux Windows CI/CD">
   <img src="https://img.shields.io/badge/Security-Least%20Privilege%20%7C%20Zero%20Trust-2b2b2b" alt="Security">
+  <img src="https://img.shields.io/badge/System%20Integration-ops%20%26%20interfaces-2b2b2b" alt="System Integration">
+  <img src="https://img.shields.io/badge/IoT-Automation-2b2b2b" alt="IoT Automation">
 </p>
 
 ---
@@ -27,7 +29,7 @@
 I’m a **FIAE (IHK) career switcher** with a **DevOps-adjacent** focus: building software that runs reliably under real operating conditions — **CI/CD**, **Docker**, **Linux**, **Windows**, **Security**, and **system integration** included.  
 My background combines **hands-on IT responsibility** with a long-standing **autodidactic cross-media / web** foundation, helping me translate requirements into **production-ready, maintainable** solutions.
 
-**Keywords:** FIAE · Junior Developer · DevOps · CI/CD · Docker · Linux · Windows · Security · Python · Shell · System Integration · Git · GitHub Actions
+**Keywords:** FIAE · Junior Developer · DevOps · CI/CD · Docker · Linux · Windows · Security · System Integration · IoT Automation · Python · Shell · Git · GitHub Actions
 
 ---
 
@@ -46,11 +48,17 @@ My background combines **hands-on IT responsibility** with a long-standing **aut
 **Languages (foundations + steady project practice):** Python · Java · Shell (Bash) · JavaScript (basic)  
 **DevOps/Infra:** Docker · Docker Compose · Linux · Windows · CI/CD (GitHub Actions) · Monitoring/Logging (project-dependent)  
 **Web:** Next.js / Node.js · HTML/CSS  
-**Security:** secrets handling · least privilege · zero-trust-oriented approaches
+**Security:** secrets handling · least privilege · zero-trust-oriented approaches  
+**System integration:** glue code, APIs, automation, reliability patterns  
+**IoT automation:** device integration, orchestration, home-lab automation patterns
 
 ---
 
 ## Featured projects
+
+<p align="center">
+  <img src="docs/featured_projects_2up.png" width="1100" alt="Featured projects: Segmented Borg Backup System + Zero Trust Selfhosted Cloud">
+</p>
 
 ### 🔒 Infra / Segmented Borg Backup System
 Backup orchestration system for BorgBackup featuring:
