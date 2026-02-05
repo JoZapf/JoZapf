@@ -53,24 +53,21 @@ My background combines **hands-on IT responsibility** with a long-standing **aut
 
 <p align="center"><i>Two production-minded projects that reflect my “Dev ↔ Ops bridge” focus.</i></p>
 
-<!-- GitHub Markdown doesn't support CSS margins well.
-     The most reliable "2-up" layout is a borderless table with explicit cell padding. -->
-<table border="0" cellspacing="0" cellpadding="0">
+<table border="0" width="100%">
   <tr>
-    <td width="50%" valign="top" style="padding-right:16px;">
-
+    <td width="49%" valign="top">
       <h3>🔒 Infra / Segmented Borg Backup System</h3>
       <b>Backup orchestration for BorgBackup</b> — modular, testable, ops-focused.
+      <br><br>
 
-      <p>
-        <a href="https://github.com/JoZapf/segmented-borg-backup-system">
-          <img
-            src="https://github.com/JoZapf/segmented-borg-backup-system/blob/main/docs/github_gfx_teaser_v2.jpg?raw=true"
-            alt="Infra / Segmented Borg Backup System – teaser"
-            width="100%"
-          >
-        </a>
-      </p>
+      <a href="https://github.com/JoZapf/segmented-borg-backup-system">
+        <img
+          src="https://github.com/JoZapf/segmented-borg-backup-system/blob/main/docs/github_gfx_teaser_v2.jpg?raw=true"
+          alt="Infra / Segmented Borg Backup System – teaser"
+          width="100%">
+      </a>
+
+      <br><br>
 
       <b>Highlights</b>
       <ul>
@@ -83,24 +80,25 @@ My background combines **hands-on IT responsibility** with a long-standing **aut
         <li>systemd integration</li>
       </ul>
 
-      <b>Repo:</b> <a href="https://github.com/JoZapf/segmented-borg-backup-system">segmented-borg-backup-system</a>
-
+      <b>Repo:</b>
+      <a href="https://github.com/JoZapf/segmented-borg-backup-system">segmented-borg-backup-system</a>
     </td>
 
-    <td width="50%" valign="top" style="padding-left:16px;">
+    <td width="2%"></td>
 
+    <td width="49%" valign="top">
       <h3>🛡️ Zero Trust Selfhosted Cloud</h3>
       <b>Multi-layer Edge-to-Origin security flow</b> — deny-by-default, least-privilege.
+      <br><br>
 
-      <p>
-        <a href="https://github.com/JoZapf/Zero-Trust-Selfhosted-Cloud-Multi-Layer-Edge-to-Origin-Security-Flow-Defense-Architecture">
-          <img
-            src="https://github.com/JoZapf/Zero-Trust-Selfhosted-Cloud-Multi-Layer-Edge-to-Origin-Security-Flow-Defense-Architecture/blob/main/docs/Zero-Trust-Selfhosted-Cloud-Multi-Layer-Edge-to-Origin-Security-Flow-Defense-Architecture.jpg?raw=true"
-            alt="Zero Trust Selfhosted Cloud – edge-to-origin flow diagram"
-            width="100%"
-          >
-        </a>
-      </p>
+      <a href="https://github.com/JoZapf/Zero-Trust-Selfhosted-Cloud-Multi-Layer-Edge-to-Origin-Security-Flow-Defense-Architecture">
+        <img
+          src="https://github.com/JoZapf/Zero-Trust-Selfhosted-Cloud-Multi-Layer-Edge-to-Origin-Security-Flow-Defense-Architecture/blob/main/docs/Zero-Trust-Selfhosted-Cloud-Multi-Layer-Edge-to-Origin-Security-Flow-Defense-Architecture.jpg?raw=true"
+          alt="Zero Trust Selfhosted Cloud – edge-to-origin flow diagram"
+          width="100%">
+      </a>
+
+      <br><br>
 
       <b>Highlights</b>
       <ul>
@@ -116,7 +114,6 @@ My background combines **hands-on IT responsibility** with a long-standing **aut
       <a href="https://github.com/JoZapf/Zero-Trust-Selfhosted-Cloud-Multi-Layer-Edge-to-Origin-Security-Flow-Defense-Architecture">
         Zero-Trust-Selfhosted-Cloud…
       </a>
-
     </td>
   </tr>
 </table>
