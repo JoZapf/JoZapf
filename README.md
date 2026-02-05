@@ -1,29 +1,60 @@
-# Jo Zapf — Junior software engineer (in training) with years of hands-on production/ops responsibility
+<!-- =========================
+     README — GitHub Portfolio
+     ========================= -->
 
-I’m a **FIAE (IHK) career switcher** with a **DevOps-adjacent** focus: building software that runs reliably under real operating conditions — **CI/CD**, **Docker**, **Linux**, **Security**, and **system integration** included.  
-My background combines **hands-on IT responsibility** with a long-standing **autodidactic cross-media / web** foundation, which helps me translate requirements into production-ready, maintainable solutions.
+<h1 align="center">Jo Zapf</h1>
+<p align="center">
+  <b>Junior Software Engineer (in training) · DevOps-adjacent · Production-minded</b><br>
+  FIAE (IHK) career switcher building software that runs reliably under real operating conditions.
+</p>
 
-**Keywords:** FIAE · Junior Developer · DevOps · CI/CD · Docker · Linux · Security · Python · Shell · System Integration · Git · GitHub Actions
+<p align="center">
+  <a href="https://jozapf.de"><b>Website</b></a> ·
+  <a href="https://github.com/JoZapf"><b>GitHub</b></a>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/FIAE%20(IHK)-in%20training-2b2b2b" alt="FIAE (IHK) in training">
+  <img src="https://img.shields.io/badge/Focus-DevOps%20adjacent-2b2b2b" alt="DevOps adjacent">
+  <img src="https://img.shields.io/badge/Stack-Docker%20%7C%20Linux%20%7C%20Windows%20%7C%20CI%2FCD-2b2b2b" alt="Docker Linux Windows CI/CD">
+  <img src="https://img.shields.io/badge/Security-Least%20Privilege%20%7C%20Zero%20Trust-2b2b2b" alt="Security">
+</p>
+
+---
+
+## About
+
+I’m a **FIAE (IHK) career switcher** with a **DevOps-adjacent** focus: building software that runs reliably under real operating conditions — **CI/CD**, **Docker**, **Linux**, **Windows**, **Security**, and **system integration** included.  
+My background combines **hands-on IT responsibility** with a long-standing **autodidactic cross-media / web** foundation, helping me translate requirements into **production-ready, maintainable** solutions.
+
+**Keywords:** FIAE · Junior Developer · DevOps · CI/CD · Docker · Linux · Windows · Security · Python · Shell · System Integration · Git · GitHub Actions
 
 ---
 
 ## Current focus (DevOps-adjacent engineering)
-- **CI/CD**: GitHub Actions, versioned releases, PR workflows, staged deployments (dev → staging → prod)
-- **Containers & operations**: Docker / Docker Compose, reproducible builds, logging/metrics, rollbacks
-- **Linux & Security**: hardening, patching, backup & recovery, secrets handling (least privilege, redaction, zero-trust mindset)
-- **Software development**: Python & Java (formal training + projects), web engineering (Next.js / Node.js)
+
+- **CI/CD:** GitHub Actions, versioned releases, PR workflows, staged deployments (dev → staging → prod)
+- **Containers & operations:** Docker / Docker Compose, reproducible builds, logging/metrics, rollbacks
+- **Linux & Windows:** automation, troubleshooting, reproducible environments (incl. WSL where useful)
+- **Security:** hardening, patching, backup & recovery, secrets handling (least privilege, redaction, zero-trust mindset)
+- **Software development:** Python & Java (formal training + projects), web engineering (Next.js / Node.js)
 
 ---
 
 ## Tech stack (compact)
-**Currently working with:** Python · Java · Shell (Bash) · JavaScript (basic) | Level: foundations + steady project practice  
-**DevOps/Infra:** Docker · Docker Compose · Linux · CI/CD (GitHub Actions) · Monitoring/Logging (project-dependent)  
+
+**Languages (foundations + steady project practice):** Python · Java · Shell (Bash) · JavaScript (basic)  
+**DevOps/Infra:** Docker · Docker Compose · Linux · Windows · CI/CD (GitHub Actions) · Monitoring/Logging (project-dependent)  
 **Web:** Next.js / Node.js · HTML/CSS  
 **Security:** secrets handling · least privilege · zero-trust-oriented approaches
 
 ---
 
 ## Featured projects
+
+<p align="center">
+  <img src="docs/featured_projects_2up.png" width="1100" alt="Featured projects: Segmented Borg Backup System + Zero Trust Selfhosted Cloud">
+</p>
 
 ### 🔒 Infra / Segmented Borg Backup System
 Backup orchestration system for BorgBackup featuring:
@@ -49,8 +80,16 @@ Zero-Trust access for self-hosted cloud behind Cloudflare:
 
 ---
 
+## More links
+
+- **Website / portfolio repo:** https://github.com/JoZapf/jozapf_de
+- **Website:** https://jozapf.de
+
+---
+
 ## Quick profile
-- **Dev ↔ Ops bridge:** engineering with production constraints in mind (CI/CD, containers, Linux)
+
+- **Dev ↔ Ops bridge:** engineering with production constraints in mind (CI/CD, containers, Linux/Windows)
 - **Security mindset:** pragmatic, traceable, well-documented
 - **Operations experience:** structured troubleshooting, scalable setups, clean documentation
 - **Autodidactic + formalized:** long-term self-learning, now systematized through FIAE training
@@ -58,4 +97,9 @@ Zero-Trust access for self-hosted cloud behind Cloudflare:
 ---
 
 ## Contact
+
 - Website: https://jozapf.de
+
+<!-- =========================
+     /README
+     ========================= -->
