@@ -107,7 +107,6 @@ My background combines **hands-on IT responsibility** with a long-standing **aut
 
 <b>Repo:</b> <a href="https://github.com/JoZapf/Zero-Trust-Selfhosted-Cloud-Multi-Layer-Edge-to-Origin-Security-Flow-Defense-Architecture">Zero-Trust…Architecture</a>
 
-    </td>
   </tr>
 </table>
 
