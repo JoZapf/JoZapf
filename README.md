@@ -56,11 +56,10 @@
 ---
 
 ## Internship availability (IHK mandatory)
-
+<p align="center">
 ✅ **Open to a 6-month mandatory internship (Berlin)**  
 **02 Jun 2026 → 29 Jan 2027**
 
-<p align="center">
   <a href="/internship_fact_sheet.md">
     <img src="https://img.shields.io/badge/Internship-Fact%20Sheet-2b2b2b" alt="Internship Fact Sheet">
   </a>
