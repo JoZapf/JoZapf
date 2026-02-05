@@ -3,7 +3,11 @@
      ========================= -->
 
 <h1 align="center">Jo Zapf</h1>
-
+<p align="center">
+  <b>Guiding principles</b><br>
+  <i>“Everything you can imagine is real”</i><br>
+</p>
+<p align="center">
 <p align="center">
   <b>DevOps-adjacent System Integration · Junior Software Engineering (in training)</b><br>
   Professionalizing 20+ years of hands-on IT responsibility through <b>FIAE (IHK)</b>.
@@ -27,7 +31,8 @@
 </p>
 
 <p align="center">
-  <i>Guiding principles:</i> “Everything you can imagine is real” · “First pain → clarity → freedom”
+  <b>Guiding principles</b><br>
+  <i>“First pain → clarity → freedom”</i>
 </p>
 
 ---
