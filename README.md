@@ -4,7 +4,7 @@
 
 <h1 align="center">Jo Zapf</h1>
 <p align="center">
-  - Building Bridges -
+  - Building Bridges: Dev ↔ Ops | Business ↔ Tech | FIAE (in training) | transforming goals into solutions -
 </p>
 <p align="center">
 <p align="center">
