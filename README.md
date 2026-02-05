@@ -14,11 +14,6 @@
 </p>
 
 <p align="center">
-  <a href="https://jozapf.de"><b>Website</b></a> ·
-  <a href="https://www.linkedin.com/in/jo-zapf/"><b>LinkedIn</b></a> ·
-</p>
-
-<p align="center">
   <img src="https://img.shields.io/badge/FIAE%20(IHK)-in%20training-2b2b2b" alt="FIAE (IHK) in training">
   <img src="https://img.shields.io/badge/Python-building%20up-2b2b2b" alt="Python building up">
   <img src="https://img.shields.io/badge/Java-building%20up-2b2b2b" alt="Java building up">
