@@ -53,7 +53,7 @@
 ✅ **Open to a 6-month mandatory internship (Berlin)*  
 ## **02 Jun 2026 → 29 Jan 2027**
 </p><br>
-<p>
+<p align="center">
      <a href="docs/internship_fact_sheet.md">Click below, to check out details:<br></hr>
           <img src="https://img.shields.io/badge/Internship-Fact%20Sheet-2b2b2b" alt="Internship Fact Sheet">
      </a>
