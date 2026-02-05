@@ -40,21 +40,18 @@
 ---
 
 ## Snapshot
-
 - **Bridge Dev ↔ Ops:** I build and operate solutions with production constraints in mind (security, reliability, documentation).
-- **Proven responsibility:** IT Lead (hands-on, technical) · external specialists coordination / Digital & Media (02/2020–10/2024) — network design, server/client ops, security & backup concepts, high-demand event/B2B/B2C setups.  
-- **Software engineering (in training):** Python/Java currently in structured build-up; strongest value today is **integration + operations + automation**.
-- **Automation:** Security-driven ops automation in **Shell/Bash** — extending into **API-based alerting (SMS/RCS)** for critical states.
-
+- **Proven responsibility:** IT Lead (hands-on, technical) · external specialists coordination / Digital & Media (02/2020–10/2024) — network design, server/client ops, security & backup concepts, high-demand event/B2B/B2C setups.
+- **Software engineering (in training):** **Python/Java building up**; strongest value today is **system integration + operations + automation**.
+- **Automation focus:** security-driven ops automation in **Shell/Bash** — extending into **API-based alerting (SMS/RCS)** for critical states.
 ---
 
-## Fast Scan
+## Fast scan
 
 - **System integration & automation:** glue code, APIs, workflows, reproducible environments, pragmatic runbooks
 - **DevOps foundations:** Docker/Compose, CI/CD (GitHub Actions), staged deployments, rollbacks (project-dependent)
 - **Security mindset:** zero-trust-oriented thinking, least privilege, secrets handling, defense-in-depth
 - **Platforms:** Linux + Windows (incl. WSL where useful), troubleshooting under pressure
-
 ---
 
 ## Internship availability (IHK mandatory)
@@ -69,9 +66,7 @@
 </p>
 
 ---
-
 ## Contact
-
 - Website: https://jozapf.de  
 - LinkedIn: https://www.linkedin.com/in/jo-zapf/
 
