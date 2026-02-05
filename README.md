@@ -46,7 +46,7 @@
 
 ---
 
-## What I do best (fast scan)
+## Fast Scan
 
 - **System integration & automation:** glue code, APIs, workflows, reproducible environments, pragmatic runbooks
 - **DevOps foundations:** Docker/Compose, CI/CD (GitHub Actions), staged deployments, rollbacks (project-dependent)
