@@ -9,7 +9,7 @@
 <p align="center">
 <p align="center">
   <b>DevOps-adjacent System Integration · Home-Lab Enthusiast · Junior Software Engineering (in training)</b><br>
-  Professionalizing 20+ years of hands-on IT responsibility through <b>FIAE (IHK)</b>.
+  Professionalizing 20+ years of cross-media and web work, backed by hands-on IT responsibility, through FIAE (IHK).</b>.
 </p>
 
 <p align="center">
