@@ -4,7 +4,6 @@
 
 <h1 align="center">Jo Zapf</h1>
 <p align="center">
-  <b>Guiding paradigm</b><br>
   <i>“Everything you can imagine is real”</i><br>
 </p>
 <p align="center">
