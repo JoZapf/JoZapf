@@ -64,10 +64,9 @@
 ---
 
 ## Featured projects
-
-<p align="center">
-  <!-- <img src="docs/featured_projects_2up.png" width="1100" alt="Featured projects: Segmented Borg Backup System + Zero Trust Selfhosted Cloud">-->
-</p>
+<!-- <p align="center">
+<img src="docs/featured_projects_2up.png" width="1100" alt="Featured projects: Segmented Borg Backup System + Zero Trust Selfhosted Cloud">
+</p> -->
 
 ### 🔒 Infra / Segmented Borg Backup System
 Backup orchestration system for BorgBackup featuring:
