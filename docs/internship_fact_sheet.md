@@ -3,7 +3,7 @@
 | Item | Details |
 |---|---|
 | Type | Mandatory internship / “Betriebliche Erprobung” (FIAE – IHK) |
-| Location preference | Berlin · SMEs and public sector welcome |
+| Location preference | Berlin · KMUs and public sector welcome |
 | Period | **02 Jun 2026 → 29 Jan 2027** |
 | Work volume | **960 hours** (60-minute hours) |
 | Probation | **4 weeks** (from start) |
