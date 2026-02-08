@@ -34,7 +34,8 @@
 ---
 
 ## Snapshot
-- **Bridge Dev[2025] ↔ Ops:** I build and operate(d) various solutions learning by doing with production constraints in mind, autodidactic since 1999.
+- **Bridge Dev (since 2025) ↔ Ops (since 2020):** I bring a strong operations & system-integration background into software engineering — learning and building with production constraints in mind.
+Background since 1999: autodidactic work in digital media/web and technical problem-solving (cross-media, web stacks, delivery).
 - **Proven responsibility:** IT Lead (hands-on, technical) · external specialists coordination / Digital & Media (02/2020–10/2024) — network design, server/client ops, security & backup concepts, high-demand event/B2B/B2C setups.
 - **Business ↔ Tech bridge:** translated leadership/customer goals into implementable requirements and reliable operations.
 - **Software engineering (in training):** **Python/Java building up**; strongest value today is **system integration + operations + automation**.
