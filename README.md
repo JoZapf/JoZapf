@@ -8,7 +8,7 @@
 </p>
 <br>
 <p align="center">
-  <b>DevOps-adjacent System Integration · Home-Lab Enthusiast · Software Engineering <i><u>(in training | IHK → 02.2027)</u></i></b><br>
+  <b>DevOps-adjacent System Integration · Home-Lab Enthusiast · Software Engineering **(in training | IHK → 02.2027)**</b><br>
   Professionalizing 20+ years of cross-media and web work, backed by hands-on IT responsibility, through FIAE (IHK).</b>.
 </p>
 
