@@ -4,11 +4,11 @@
 
 <h1 align="center">Jo Zapf</h1>
 <p align="center">
-  - Building Bridges: Dev ↔ Ops | Business ↔ Tech | transforming goals into solutions | FIAE (in training) -
+  - Building Bridges: Dev ↔ Ops | Business ↔ Tech | transforming goals into solutions | **FIAE (in training)** -
 </p>
 <br>
 <p align="center">
-  <b>DevOps-adjacent System Integration · Home-Lab Enthusiast · Software Engineering (in training)</b><br>
+  <b>DevOps-adjacent System Integration · Home-Lab Enthusiast · Software Engineering <i>(in training | IHK → 02.2027)</i></b><br>
   Professionalizing 20+ years of cross-media and web work, backed by hands-on IT responsibility, through FIAE (IHK).</b>.
 </p>
 
