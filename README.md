@@ -36,7 +36,7 @@
 ## Snapshot
 - **Bridging Dev** (since 2025) **↔ Ops **(since 2018)**:** I bring a strong operations & system-integration background into software engineering. Learning and building with production constraints in mind.
 Background since 1999: autodidactic work in project- & event-management, networks, digital cross-media/web and technical problem-solving.
-- **Proven responsibility:** IT Lead (hands-on, technical) · external specialists coordination / Digital & Media (02/2020–10/2024) — network design, server/client ops, security & backup concepts, high-demand event/B2B/B2C setups.
+- **Proven responsibility:** IT Lead (hands-on, technical) · external specialists coordination / Digital & Media, network design, server/client ops, security & backup concepts, high-demand event/B2B/B2C setups.
 - **Business ↔ Tech bridge:** translated leadership/customer goals into implementable requirements and reliable operations.
 - **Software engineering (in training):** **Python/Java building up**; strongest value today is **system integration + operations + automation**.
 - **Automation focus exemplary:** security-driven ops automation in **Shell/Bash** — expanded to include **API-based alerting (SMS/RCS)** for for logging and notification at critical states.
