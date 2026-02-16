@@ -44,7 +44,7 @@ Background since 1999: autodidactic work in project- & event-management, network
 
 ## Fast scan
 
-- **System integration & automation:** glue code, APIs, workflows, reproducible environments, pragmatic runbooks
+- **System integration & automation:** shell, APIs, workflows, reproducible environments, pragmatic runbooks
 - **DevOps foundations:** Docker/Compose, CI/CD (GitHub Actions), staged deployments, rollbacks (project-dependent)
 - **Security mindset:** zero-trust-oriented thinking, least privilege, secrets handling, defense-in-depth
 - **Platforms:** Linux + Windows (incl. WSL where useful), troubleshooting under pressure
