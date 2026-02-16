@@ -13,7 +13,7 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/FIAE%20(IHK)-in%20Umschulung-2b2b2b" alt="FIAE (IHK) in Umschulung">
+  <img src="https://img.shields.io/badge/FIAE%20(IHK)-in%20Umschulung-2b2b2b" alt="FIAE (IHK) in Ausbildung">
   <img src="https://img.shields.io/badge/Python-im%20Aufbau-2b2b2b" alt="Python im Aufbau">
   <img src="https://img.shields.io/badge/Java-im%20Aufbau-2b2b2b" alt="Java im Aufbau">
   <img src="https://img.shields.io/badge/Fokus-DevOps%20%2B%20Systemintegration-2b2b2b" alt="Fokus DevOps und Systemintegration">
