@@ -66,7 +66,7 @@
 </p><br>
 
 <p align="center">
-     <a href="docs/internship_fact_sheet.md">Klick hier für Details:<br><br>
+     <a href="internship_fact_sheet_DE.md">Klick hier für Details:<br><br>
           <img src="https://img.shields.io/badge/Praktikum-Fact%20Sheet-2b2b2b" alt="Praktikum Fact Sheet">
      </a><img src="https://img.shields.io/badge/02%20Jun%202026-29%20Jan%202027-2b2b2b" alt="Praktikumszeitraum">
 </p>
