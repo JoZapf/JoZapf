@@ -1,6 +1,6 @@
 <p align="right">
-  <a href="https://github.com/JoZapf/JoZapf/blob/main/docs/README_DE.md" title="Deutsch">
-    <img src="https://img.shields.io/badge/DE-Deutsch-FFCE00?style=for-the-badge&labelColor=000000&color=DD0000" alt="Deutsch (DE)">
+  <a href="https://github.com/JoZapf/JoZapf/blob/main/docs/README_DE.md" title="Zur deutschen Version" style="text-decoration:none;">
+    <b>Deutsch</b> <span>⬛🟥🟨</span>
   </a>
 </p>
 <!-- =========================
