@@ -28,7 +28,7 @@
 <p align="center">
   <b>Intrinsischer Antrieb: </b><i>„Erst der Schmerz → dann die Klarheit → schließlich Freiheit (Sicherheit)“</i><br>
   <span>Mein persönlicher Anspruch an <b>Sicherheit</b> wandelt Komplexität in Klarheit – und hat wiederholt kritische Ausfälle im Geschäftsbetrieb verhindert.</span><br>
-  <span>Weg von reiner Vorbereitung – hin zum aggierendem Handeln, statt spät zu reagieren.</span>
+  <span>Weg von reiner Vorbereitung – hin zum aggierenden Handeln, statt spät zu reagieren.</span>
 </p>
 
 ---
