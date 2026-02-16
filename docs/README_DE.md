@@ -37,7 +37,7 @@
 
 - **Dev-Brücke (seit 2025) ↔ Ops-Brücke (seit 2018):** bringe ich fundierte Kenntnisse in den Bereichen Betrieb und Systemintegration in die Softwareentwicklung ein. Lernen und Entwickeln unter Berücksichtigung von Produktionsbedingungen.
   Hintergrund seit 1999: autodidaktische Praxis in Projekt‑/Event‑Kontexten, Netzwerken, digitalem Cross‑Media/Web und technischem Troubleshooting.
-- **Nachweisbare Verantwortung:** IT Lead (hands-on, technisch) · Koordination externer Spezialist:innen / Digital & Media – Netzdesign, Server/Client‑Betrieb, Security‑ & Backup‑Konzepte, hochbelastete Event‑ und B2B/B2C‑Setups.
+- **Nachweisbare Verantwortung:** IT Lead (hands-on, technisch) · Koordination externer Spezialist:innen / Digital & Media – Netzwerk- Administration & Design, Server/Client‑Betrieb, Security‑ & Backup‑Konzepte, hochbelastete Event‑ und B2B/B2C‑Setups.
 - **Business ↔ Tech:** Bindeglied zwischen Unternehmensführung und Kundenanwünschen in umsetzbare Anforderungen und in Betriebskonzepte, die auch unter Druck funktionieren.
 - **Software Engineering (in Umschulung):** **Python/Java im Aufbau**; aktueller stärkster Hebel: **Systemintegration + Operations + Automation**.
 - **Automation (beispielhaft):** Security‑getriebene Ops‑Automation in **Shell/Bash** – erweitert um **API‑basierte Alerting‑Flows (SMS/RCS)** für Logging und Benachrichtigung bei kritischen Zuständen.
