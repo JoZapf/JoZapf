@@ -8,7 +8,7 @@
 </p>
 <br>
 <p align="center">
-  <b>DevOps-nahe Systemintegration · Heimlabor-Enthusiast · Softwareentwicklung *<i>(in Ausbildung | IHK → 02.2027)*</i></b><br>
+  <b>DevOps-nahe Systemintegration · Homelab-Enthusiast · Anwendungsentwicklung *<i>(in Ausbildung | IHK → 02.2027)*</i></b><br>
   Professionalisierung von über 20 Jahren Erfahrung in den Bereichen Crossmedia und Web, gestützt durch praktische IT- und Netzwerkverantwortung, durch FIAE.
 </p>
 
