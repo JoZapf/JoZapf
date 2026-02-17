@@ -26,7 +26,7 @@
 </p>
 <br>
 <p align="center">
-  <b>Intrinsischer Antrieb: </b><i>„Erst der Schmerz → dann die Klarheit → schließlich Freiheit (Sicherheit)“</i><br>
+  <b>Intrinsisch Motiviertmit Fokus auf betriebsnahe Anforderungen und Zuverlässigkeit</b><br>
   <span>Mein persönlicher Anspruch an <b>Sicherheit</b> wandelt Komplexität in Klarheit – und hat wiederholt kritische Ausfälle im Geschäftsbetrieb verhindert.</span><br>
   <span>Weg von reiner Vorbereitung – hin zum aggierenden Handeln, statt spät zu reagieren.</span>
 </p>
@@ -35,12 +35,12 @@
 
 ## Kurzprofil (Snapshot)
 
-- **Dev-Brücke (seit 2025) ↔ Ops-Brücke (seit 2018):** bringe ich fundierte Kenntnisse in den Bereichen Betrieb und Systemintegration in die Softwareentwicklung ein. Im Schwerpunkt lerne und entwickele ich Autodidaktisch unter Berücksichtigung von Produktionsbedingungen.
-  Hintergrund seit 1999: autodidaktische Praxis in Projekt‑/Event‑Kontexten, Netzwerken, digitalem Cross‑Media/Web und technischem Troubleshooting.
-- **Nachweisbare Verantwortung:** IT Lead (hands-on, technisch) · Koordination externer Spezialist:innen · Digital & Media · Netzwerk- Administration & Design, Server/Client‑Betrieb, Security‑ & Backup‑Konzepte, hochbelastete Event‑ und B2B/B2C‑Setups.
-- **Business ↔ Tech:** Bindeglied zwischen Unternehmensführung und Kundenanwünschen, Transformation in umsetzbare Anforderungen und Betriebskonzepte, die belastbar funktionieren.
-- **Software Engineering (in Ausbildung):** **Python/Java im Aufbau**; aktueller stärkster Hebel: **Systemintegration + Operations + Automation**.
-- **Automation (beispielhaft):** Security‑getriebene Ops‑Automation in **Shell/Bash** – erweitert um **API‑basierte Alerting‑Flows (SMS/RCS)** für Logging und Benachrichtigung bei kritischen Zuständen.
+- **Dev-Brücke (seit 2025) ↔ Ops-Brücke (seit 2018):** bringe ich fundierte Kenntnisse in den Bereichen Betriebstechnologie (OT) und Systemintegration (SI) in die Softwareentwicklung ein. Im Schwerpunkt lerne und entwickle ich autodidaktisch und mit Fokus auf betriebliche Anforderungen (Reproduzierbarkeit, Monitoring, Backup/Restore, Doku).
+- **Hintergrund seit 1999:** autodidaktische Praxis in Projekt‑/Event‑Kontexten, Netzwerken, Cross‑Media Produktion/Web und technischem Troubleshooting.
+- **Nachweisbare Verantwortung:** in IT Lead (hands-on, technisch) · Koordination externer Spezialist:innen · Digital & Media · Netzwerk- Administration & Design, Server/Client‑Betrieb, Security‑ & Backup‑Konzepte, hochbelastete Event‑ und B2B/B2C‑Setups.
+- **Business ↔ Tech:** Häufig erster technischer Ansprechpartner und Schnittstelle zwischen fachlichen Zielen und Technik: Anforderungen strukturieren, priorisieren und in belastbare Implementations- und Betriebskonzepte übersetzen.
+- **Software Engineering (in Ausbildung):** **Python/Java im Aufbau**; aktueller stärkster Hebel: Dev-Ops als Continuous Deployment (CI/CD) Pipeline, Systemintegration (SI) + Operations (OT) + Automation (Skripting/Workflows).
+- **Automation (beispielhaft):** Security‑getriebene Ops‑Automation in Shell/Bash – erweitert um API‑basierte Alerting‑Flows (SMS/RCS) für Logging und Benachrichtigung bei kritischen Zuständen.
 
 ---
 
