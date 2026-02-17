@@ -39,20 +39,21 @@
 ---
 
 ## Snapshot
-- **Bridging Dev** (since 2025) **↔ Ops **(since 2018)**:** I bring a strong operations & system-integration background into software engineering. My focus is on learning and developing through self-study, taking production conditions into account.
-Background since 1999: autodidactic work in project- & event-management, networks, digital cross-media/web and technical problem-solving.
+- **Bridging Dev** (since 2025) **↔ Ops **(since 2018)**:** I bring solid hands-on experience in operations technology (OT) and system integration (SI) into my software engineering work. Most of my learning and building is self-directed, with a strong focus on operational requirements—reproducibility, monitoring, backup/restore, and clear documentation.
+- **Background since 1999:** autodidactic work in project- & event-management, networks, digital cross-media/web and technical problem-solving.
 - **Proven responsibility:** IT Lead (hands-on, technical) · external specialists coordination / Digital & Media, network design, server/client ops, security & backup concepts, high-demand event/B2B/B2C setups.
 - **Business ↔ Tech bridge:** translated leadership/customer goals into implementable requirements and reliable operations.
-- **Software engineering (in training):** **Python/Java building up**; strongest value today is **system integration + operations + automation**.
-- **Automation focus exemplary:** security-driven ops automation in **Shell/Bash** — expanded to include **API-based alerting (SMS/RCS)** for for logging and notification at critical states.
+- **Software engineering (in training):** **Python/Java building up**; my strongest lever right now is DevOps via a CI/CD pipeline with continuous deployment, plus system integration (SI) + operations (OT) + automation (scripting/workflows).
+- **Automation focus exemplary:** security-driven ops automation in Shell/Bash — expanded to include API-based alerting (SMS/RCS) for for logging and notification at critical states.
 ---
 
 ## Fast scan
 
-- **System integration & automation:** shell, APIs, workflows, reproducible environments, pragmatic runbooks
-- **DevOps foundations:** Docker/Compose, CI/CD (GitHub Actions), staged deployments, rollbacks (project-dependent)
+- **Hands-on Home-Lab Ops:** I run a monitored on-prem Linux server (zero-trust access from the outside) and protect it with segmented Borg backup orchestration and automated offline storage.
+- **System integration & automation:** shell, APIs, workflows, reproducible environments, pragmatic runbooks.
+- **DevOps foundations:** Docker/Compose, Continuous Deployment (CI/CD, GitHub Actions), staged deployments, rollbacks (project-dependent)
 - **Security mindset:** zero-trust-oriented thinking, least privilege, secrets handling, defense-in-depth
-- **Platforms:** Linux + Windows (incl. WSL where useful), troubleshooting under pressure
+- **Platforms:** Linux + Windows (incl. WSL where useful), troubleshooting
 ---
 <p align="center">
   <i>“Everything you can imagine is real.”</i>
