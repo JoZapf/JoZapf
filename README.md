@@ -14,7 +14,7 @@
 <br>
 <p align="center">
   <b>DevOps-adjacent System Integration · Home-Lab Enthusiast · Software Engineering *(in training | IHK → 02.2027)*</b><br>
-  Professionalizing 20+ years of cross-media and web work, backed by hands-on IT & network responsibility, through FIAE.</b>
+  <strong>I'm professionalizing:</strong> 20+ years of cross-media production and Web-/CMS-Practice (Frontend/Template-Development), backed by hands-on IT & network responsibility, <strong>through FIAE.</strong>
 </p>
 
 <p align="center">
@@ -40,10 +40,10 @@
 
 ## Snapshot
 - **Bridging Dev** (since 2025) **↔ Ops **(since 2018)**:** I bring solid hands-on experience in operations technology (OT) and system integration (SI) into my software engineering work. Most of my learning and building is self-directed, with a strong focus on operational requirements—reproducibility, monitoring, backup/restore, and clear documentation.
-- **Background since 1999:** autodidactic work in project- & event-management, networks, digital cross-media/web and technical problem-solving.
+- **Background since 1999:** <strong>Background since 1999:</strong> autodidactic work in project- &amp; event-management, networks, digital cross-media production, Web-/CMS-Practice (Frontend/Template-Development, HTML/CSS, partially JS/PHP) and technical problem-solving.
 - **Proven responsibility:** IT Lead (hands-on, technical) · external specialists coordination / Digital & Media, network design, server/client ops, security & backup concepts, high-demand event/B2B/B2C setups.
 - **Business ↔ Tech bridge:** translated leadership/customer goals into implementable requirements and reliable operations.
-- **Software engineering (in training):** **Python/Java building up**; my strongest lever right now is DevOps via a CI/CD pipeline with continuous deployment, plus system integration (SI) + operations (OT) + automation (scripting/workflows).
+- **Software engineering (in training):** **Python/Java building up**; my strongest lever right now is DevOps via a CI/CD pipeline with continuous deployment, plus system integration (SI) + operations (OT) + automation (IoT/scripting/workflows).
 - **Automation focus exemplary:** security-driven ops automation in Shell/Bash — expanded to include API-based alerting (SMS/RCS) for for logging and notification at critical states.
 ---
 
