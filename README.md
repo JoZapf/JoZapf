@@ -35,7 +35,9 @@
   <span>My personal drive for <b>security</b> turns complexity into clarity — and has repeatedly prevented critical failures in business operations.</span><br>
   <span>Moving from preparation to leading and leaving reaction.</span>
 </p>
+    
 ---
+    
 ## Snapshot
 - **Bridging Dev** (since 2025) **↔ Ops **(since 2018)**:** I bring solid hands-on experience in operations technology (OT) and system integration (SI) into my software engineering work. Most of my learning and building is self-directed, with a strong focus on operational requirements—reproducibility, monitoring, backup/restore, and clear documentation.
   
@@ -55,7 +57,9 @@
 - **DevOps foundations:** Docker/Compose, Continuous Deployment (CI/CD, GitHub Actions), staged deployments, rollbacks (project-dependent)
 - **Security mindset:** zero-trust-oriented thinking, least privilege, secrets handling, defense-in-depth
 - **Platforms:** Linux + Windows (incl. WSL where useful), troubleshooting
+
 ---
+
 <p align="center">
   <i>“Everything you can imagine is real.”</i>
 </p>
