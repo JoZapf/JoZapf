@@ -14,7 +14,7 @@
 <br>
 <p align="center">
   <b>DevOps-adjacent System Integration · Home-Lab Enthusiast · Software Engineering *(in training | IHK → 02.2027)*</b><br>
-  <strong>I'm professionalizing:</strong> 20+ years of cross-media production and Web-/CMS-Practice (Frontend/Template-Development), backed by hands-on IT & network responsibility, <strong>through FIAE.</strong>
+  <strong><u>I'm professionalizing:</u>u></strong> 20+ years of cross-media production and Web-/CMS-Practice (Frontend/Template-Development), backed by hands-on IT & network responsibility, <strong><u>through FIAE.</u></strong>
 </p>
 
 <p align="center">
