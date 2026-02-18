@@ -36,13 +36,12 @@
   <span>Moving from preparation to leading and leaving reaction.</span>
 </p>
     
----
     
 ## Snapshot
 - **Bridging Dev** (since 2025) **↔ Ops **(since 2018)**:** I bring solid hands-on experience in operations technology (OT) and system integration (SI) into my software engineering work. Most of my learning and building is self-directed, with a strong focus on operational requirements—reproducibility, monitoring, backup/restore, and clear documentation.
   
 - **Background since 1999:** <strong>Background since 1999:</strong> autodidactic work in project- &amp; event-management, networks, digital cross-media production, Web-/CMS-Practice (Frontend/Template-Development, HTML/CSS, partially JS/PHP) and technical problem-solving.
-- 
+  
 - **Proven responsibility:** IT Lead (hands-on, technical) · external specialists coordination / Digital & Media, network design, server/client ops, security & backup concepts, high-demand event/B2B/B2C setups.
   
 - **Business ↔ Tech bridge:** translated leadership/customer goals into implementable requirements and reliable operations.
