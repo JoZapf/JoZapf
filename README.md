@@ -35,25 +35,21 @@
   <span>My personal drive for <b>security</b> turns complexity into clarity — and has repeatedly prevented critical failures in business operations.</span><br>
   <span>Moving from preparation to leading and leaving reaction.</span>
 </p>
-
 ---
-
 ## Snapshot
 - **Bridging Dev** (since 2025) **↔ Ops **(since 2018)**:** I bring solid hands-on experience in operations technology (OT) and system integration (SI) into my software engineering work. Most of my learning and building is self-directed, with a strong focus on operational requirements—reproducibility, monitoring, backup/restore, and clear documentation.
-- 
+  
 - **Background since 1999:** <strong>Background since 1999:</strong> autodidactic work in project- &amp; event-management, networks, digital cross-media production, Web-/CMS-Practice (Frontend/Template-Development, HTML/CSS, partially JS/PHP) and technical problem-solving.
 - 
 - **Proven responsibility:** IT Lead (hands-on, technical) · external specialists coordination / Digital & Media, network design, server/client ops, security & backup concepts, high-demand event/B2B/B2C setups.
-- 
+  
 - **Business ↔ Tech bridge:** translated leadership/customer goals into implementable requirements and reliable operations.
-- 
+  
 - **Software engineering (in training):** **Python/Java building up**; my strongest lever right now is DevOps via a CI/CD pipeline with continuous deployment, plus system integration (SI) + operations (OT) + automation (IoT/scripting/workflows).
-- 
+  
 - **Automation focus exemplary:** security-driven ops automation in Shell/Bash — expanded to include API-based alerting (SMS/RCS) for for logging and notification at critical states.
 ---
-
 ## Fast scan
-
 - **Hands-on Home-Lab Ops:** I run a monitored on-prem Linux server (zero-trust access from the outside) and protect it with segmented Borg backup orchestration and automated offline storage.
 - **System integration & automation:** shell, APIs, workflows, reproducible environments, pragmatic runbooks.
 - **DevOps foundations:** Docker/Compose, Continuous Deployment (CI/CD, GitHub Actions), staged deployments, rollbacks (project-dependent)
