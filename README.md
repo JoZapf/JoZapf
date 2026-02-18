@@ -1,11 +1,11 @@
+<!-- =========================
+     README — GitHub Portfolio
+     ========================= -->
 <p align="right">
   <a href="https://github.com/JoZapf/JoZapf/blob/main/docs/README_DE.md" title="Zur deutschen Version" style="text-decoration:none;">
     <b>Deutsch</b> <span>⬛🟥🟨</span>
   </a>
 </p>
-<!-- =========================
-     README — GitHub Portfolio
-     ========================= -->
 
 <h1 align="center">Jo Zapf</h1>
 <p align="center">
@@ -35,8 +35,7 @@
   <span>My personal drive for <b>security</b> turns complexity into clarity — and has repeatedly prevented critical failures in business operations.</span><br>
   <span>Moving from preparation to leading and leaving reaction.</span>
 </p>
-    
-    
+      
 ## Snapshot
 - **Bridging Dev** (since 2025) **↔ Ops **(since 2018)**:** I bring solid hands-on experience in operations technology (OT) and system integration (SI) into my software engineering work. Most of my learning and building is self-directed, with a strong focus on operational requirements—reproducibility, monitoring, backup/restore, and clear documentation.
   
@@ -49,7 +48,7 @@
 - **Software engineering (in training):** **Python/Java building up**; my strongest lever right now is DevOps via a CI/CD pipeline with continuous deployment, plus system integration (SI) + operations (OT) + automation (IoT/scripting/workflows).
   
 - **Automation focus exemplary:** security-driven ops automation in Shell/Bash — expanded to include API-based alerting (SMS/RCS) for for logging and notification at critical states.
----
+
 ## Fast scan
 - **Hands-on Home-Lab Ops:** monitored on-prem Linux server (zero-trust access from the outside) and protected it with segmented Borg backup orchestration and automated offline storage.
 - **System integration & automation:** shell, APIs, workflows, reproducible environments, pragmatic runbooks.
@@ -61,7 +60,6 @@
 <p align="center">
   <i>“Everything you can imagine is real.”</i>
 </p>
-
 
 ## Internship availability (IHK mandatory)
 <p align="center">
