@@ -56,11 +56,6 @@
 - **Security mindset:** zero-trust-oriented thinking, least privilege, secrets handling, defense-in-depth
 - **Platforms:** Linux + Windows (incl. WSL where useful), troubleshooting
 
-
-<p align="center">
-  <i>“Everything you can imagine is real.”</i>
-</p>
-
 ## Internship availability (IHK mandatory)
 <p align="center">
 ✅ **Open to a 6-month mandatory internship (Berlin)**<br>  
