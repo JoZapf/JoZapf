@@ -51,7 +51,7 @@
 - **Automation focus exemplary:** security-driven ops automation in Shell/Bash — expanded to include API-based alerting (SMS/RCS) for for logging and notification at critical states.
 ---
 ## Fast scan
-- **Hands-on Home-Lab Ops:** I run a monitored on-prem Linux server (zero-trust access from the outside) and protect it with segmented Borg backup orchestration and automated offline storage.
+- **Hands-on Home-Lab Ops:** monitored on-prem Linux server (zero-trust access from the outside) and protected it with segmented Borg backup orchestration and automated offline storage.
 - **System integration & automation:** shell, APIs, workflows, reproducible environments, pragmatic runbooks.
 - **DevOps foundations:** Docker/Compose, Continuous Deployment (CI/CD, GitHub Actions), staged deployments, rollbacks (project-dependent)
 - **Security mindset:** zero-trust-oriented thinking, least privilege, secrets handling, defense-in-depth
