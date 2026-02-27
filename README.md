@@ -8,7 +8,7 @@
 <br>
 <p align="center">
   <b>DevOps-adjacent System Integration · Home-Lab Enthusiast · Software Engineering *(in training | IHK → 02.2027)*</b><br>
-  <strong><u>I'm specializing  into structured software engineering:</u></strong> 20+ years of cross-media production and Web-/CMS-Practice, backed by hands-on IT & network responsibility, <strong><u>through FIAE.</u></strong>
+  <strong><u>I'm specializing  into structured software engineering:</u></strong> 20+ years of cross-media production and Web-/CMS-Practice, backed by hands-on IT & network responsibility, <strong><u>through Software Developer (Apprentice).</u></strong>
 </p>
 
 
