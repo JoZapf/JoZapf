@@ -24,7 +24,7 @@
 </p>
 
 
-## <center>Internship availability (IHK mandatory)</center
+<center><h1>Internship availability (IHK mandatory)</h1></center
 <p align="center">
 ✅ **Open to a 6-month mandatory internship (Berlin)**<br>  
 **02 Jun 2026 → 29 Jan 2027**
