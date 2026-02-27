@@ -18,26 +18,13 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/FIAE%20(IHK)-in%20training-2b2b2b" alt="FIAE (IHK) in training">
-  <img src="https://img.shields.io/badge/Python-building%20up-2b2b2b" alt="Python building up">
-  <img src="https://img.shields.io/badge/Java-building%20up-2b2b2b" alt="Java building up">
-  <img src="https://img.shields.io/badge/Focus-DevOps%20%2B%20System%20Integration-2b2b2b" alt="DevOps and System Integration focus">
-  <img src="https://img.shields.io/badge/Platform-Linux%20%7C%20Windows-2b2b2b" alt="Linux and Windows">
-  <img src="https://img.shields.io/badge/Containers-Docker%20%7C%20Compose-2b2b2b" alt="Docker and Docker Compose">
-  <img src="https://img.shields.io/badge/CI%2FCD-GitHub%20Actions-2b2b2b" alt="GitHub Actions">
-  <img src="https://img.shields.io/badge/Security-Zero%20Trust%20%7C%20Least%20Privilege-2b2b2b" alt="Zero Trust / Least Privilege">
-  <img src="https://img.shields.io/badge/System%20Integration-APIs%20%7C%20Automation-2b2b2b" alt="System Integration">
-  <img src="https://img.shields.io/badge/IoT-Automation-2b2b2b" alt="IoT Automation">
-</p>
-<br>
-<p align="center">
   <b>Intrinsic drive with focus on operational requirements and reliability<br>
   <span>My personal drive for <b>security</b> turns complexity into clarity — and has repeatedly prevented critical failures in business operations.</span><br>
   <span>Moving from preparation to leading and leaving reaction.</span>
 </p>
 
 
-## Internship availability (IHK mandatory)
+<center>## Internship availability (IHK mandatory)</center>center>
 <p align="center">
 ✅ **Open to a 6-month mandatory internship (Berlin)**<br>  
 **02 Jun 2026 → 29 Jan 2027**
