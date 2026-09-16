@@ -3,7 +3,7 @@
      ========================= -->
 <h1 align="center">Jo Zapf</h1>
 <p align="center">
-  - Building Bridges: Dev ↔ Ops | Business ↔ Tech | transforming goals into solutions | Application Developer -
+  - Building Bridges: Dev ↔ Ops | Business ↔ Tech | transforming goals into solutions -
 </p>
 <br>
 <p align="center">
